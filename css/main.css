@@ -1,12 +1,12 @@
 body{
-    background-image: url('https://www.vanessametonini.com.br/imersaocss/a1/img/fundo.jpg');
-    background-size: auto 100vh;
+    background-image: url('https://cdn.pixabay.com/photo/2015/01/13/09/14/background-598050_960_720.jpg');
+    background-size: auto 140vh;
     height: 100vh;
     font-family: arial;
   }
   
   .menu{
-    background-color: white;
+    background-color:  #FFFAF0;
   }
   
   .menu li{
